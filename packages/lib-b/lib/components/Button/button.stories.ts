@@ -8,7 +8,7 @@ const meta = {
   argTypes: {
     children: {
       control: "text",
-      description: "Button content",
+      description: "Button content is here",
     },
     disabled: {
       control: "boolean",
