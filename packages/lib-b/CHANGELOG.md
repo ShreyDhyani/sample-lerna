@@ -1,3 +1,19 @@
+# v0.3.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: mofified description ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+- Sample [#7](https://github.com/ShreyDhyani/sample-lerna/pull/7) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.2.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement

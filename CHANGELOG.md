@@ -1,5 +1,22 @@
 # (Thu Jan 09 2025)
 
+#### 🐛 Bug Fix
+
+- `@try-auto/lib-a@0.3.0`, `@try-auto/lib-b@0.3.0`
+  - Sample [#7](https://github.com/ShreyDhyani/sample-lerna/pull/7) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### ⚠️ Pushed to `main`
+
+- ci: modified script ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
+# (Thu Jan 09 2025)
+
 #### 🚀 Enhancement
 
 - `@try-auto/lib-b@0.2.0`
