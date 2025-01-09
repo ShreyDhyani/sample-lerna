@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "lerna exec --scope @try-auto/* -- npm run build",
-    "release": "lerna exec --scope @try-auto/* -- npm publish --tag alpha"
+    "release": "lerna exec --scope @try-auto/* -- npm publish"
   },
   "repository": {
     "type": "git",
