@@ -2,6 +2,19 @@
 
 #### 🚀 Enhancement
 
+- `@try-auto/lib-a@0.4.0`, `@try-auto/lib-b@0.5.0`
+  - feat: removed prepublish command ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
+# (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
 - feat: Added base branch for config ([@ShreyDhyani](https://github.com/ShreyDhyani))
 - feat: Added more exact config ([@ShreyDhyani](https://github.com/ShreyDhyani))
 

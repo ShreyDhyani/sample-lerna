@@ -1,3 +1,15 @@
+# v0.5.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: removed prepublish command ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.4.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement
