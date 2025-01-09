@@ -1,3 +1,19 @@
+# v0.4.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: Added button bg ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+- feat: Added button bg [#8](https://github.com/ShreyDhyani/sample-lerna/pull/8) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.3.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement

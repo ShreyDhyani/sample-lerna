@@ -1,5 +1,23 @@
 # (Thu Jan 09 2025)
 
+#### 🚀 Enhancement
+
+- feat: Added base branch for config ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- feat: Added more exact config ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+- `@try-auto/lib-b@0.4.0`
+  - feat: Added button bg [#8](https://github.com/ShreyDhyani/sample-lerna/pull/8) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
+# (Thu Jan 09 2025)
+
 #### 🐛 Bug Fix
 
 - `@try-auto/lib-a@0.3.0`, `@try-auto/lib-b@0.3.0`
