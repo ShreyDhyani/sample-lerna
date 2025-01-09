@@ -1,3 +1,21 @@
+# v0.2.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: Added alpha release ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- style: removed style form field [#2](https://github.com/ShreyDhyani/sample-lerna/pull/2) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+- pull: lates pull from main ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- style: removed style form field ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.1.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement
