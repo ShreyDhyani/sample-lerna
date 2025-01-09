@@ -25,7 +25,7 @@ type Story = StoryObj<typeof meta>;
 
 export const Primary: Story = {
   args: {
-    children: "Click me",
+    children: "Click me!!",
     type: "button",
     className: "bg-red-200 hover:bg-red-300 rounded-md p-1",
   },
