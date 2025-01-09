@@ -18,7 +18,7 @@
     "version": "independent"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shrey Dhyani <shrey@betalectic.com>",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
@@ -31,6 +31,11 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@auto-it/all-contributors": "11.3.0",
+    "@auto-it/conventional-commits": "11.3.0",
+    "@auto-it/npm": "11.3.0",
+    "@auto-it/released": "11.3.0",
+    "auto": "11.3.0",
     "lerna": "8.1.9",
     "@types/node": "^22.5.4",
     "@types/react": "^18.3.5",
@@ -61,5 +66,18 @@
     "concurrently": "^8.2.2",
     "storybook": "^8.0.9",
     "tailwindcss": "^3.4.3"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "all-contributors",
+      "conventional-commits",
+      "released"
+    ],
+    "prereleaseBranches": [
+      "alpha",
+      "beta",
+      "next"
+    ]
   }
 }
