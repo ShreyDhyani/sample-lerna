@@ -27,8 +27,6 @@
     "build": "tsc -b ./tsconfig.lib.json && vite build && npm run build:css",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "bump": "npm version prerelease --preid=alpha",
-    "prepublishOnly": "npm run bump && npm run build",
     "storybook": "concurrently \"npm run storybook:css\" \"storybook dev -p 6006\"",
     "storybook:css": "tailwindcss -w -i ./src/tailwind-entry.css -o ./src/index.css",
     "build-storybook": "concurrently \"npm run build-storybook:css\" \"storybook build\"",
