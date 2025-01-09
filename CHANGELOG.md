@@ -1,5 +1,23 @@
 # (Thu Jan 09 2025)
 
+#### 🚀 Enhancement
+
+- `@try-auto/lib-a@0.6.0`
+  - feat: Lib a buttton change [#11](https://github.com/ShreyDhyani/sample-lerna/pull/11) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- `@try-auto/lib-a@0.6.0`, `@try-auto/lib-b@0.6.0`
+  - Alpha sample [#10](https://github.com/ShreyDhyani/sample-lerna/pull/10) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
+# (Thu Jan 09 2025)
+
 #### 🐛 Bug Fix
 
 - `@try-auto/lib-a@0.5.0`

@@ -1,3 +1,21 @@
+# v0.6.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: Lib a buttton change [#11](https://github.com/ShreyDhyani/sample-lerna/pull/11) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- feat: Lib a buttton change ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- Alpha sample [#10](https://github.com/ShreyDhyani/sample-lerna/pull/10) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+- feat: Added sample log for alpha ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.5.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement
