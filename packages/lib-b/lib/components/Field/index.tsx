@@ -8,7 +8,7 @@ type FormFieldProps = {
 };
 
 export const Field = ({ label, placeholder }: FormFieldProps) => {
-  console.log("Loading Split Field");
+  console.log("Loading lib-b Field");
 
   const [inputCustomCountValue, setInputCustomCountValue] = useState("");
 
