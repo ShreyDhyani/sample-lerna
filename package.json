@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "lerna exec --scope @test-auto/* -- npm run build"
+    "build": "lerna exec --scope @try-auto/* -- npm run build"
   },
   "repository": {
     "type": "git",
