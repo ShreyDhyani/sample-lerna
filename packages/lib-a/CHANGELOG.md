@@ -1,3 +1,19 @@
+# v0.5.0 (Thu Jan 09 2025)
+
+#### 🚀 Enhancement
+
+- feat: Added console.log ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### 🐛 Bug Fix
+
+- feat: Added console.log [#9](https://github.com/ShreyDhyani/sample-lerna/pull/9) ([@ShreyDhyani](https://github.com/ShreyDhyani))
+
+#### Authors: 1
+
+- [@ShreyDhyani](https://github.com/ShreyDhyani)
+
+---
+
 # v0.4.0 (Thu Jan 09 2025)
 
 #### 🚀 Enhancement
